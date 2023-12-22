@@ -1,0 +1,4 @@
+#Thu Dec 21 17:02:58 TRT 2023
+base.0=/Users/arslan/Documents/0 My Files/0-My Projects/0-Flutter/thalassophilecoffe/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
