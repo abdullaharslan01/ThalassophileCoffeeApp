@@ -1,9 +1,9 @@
-#☕️ Thalassophile Coffee  App
+# ☕️ Thalassophile Coffee  App
 
-##Overview 🌟
-###Welcome to the Thalassophile Coffee , a simple yet delightful application designed to bring the joy of coffee customization to users. This project is a three-page application allowing users to explore a variety of coffees, add them to their cart, and seamlessly make payments. The use of Riverpod provider ensures smooth state management, and future enhancements can easily introduce internet-based features for a more connected experience. My aim is to create a visual, simple design.
+## Overview 🌟
+### Welcome to the Thalassophile Coffee , a simple yet delightful application designed to bring the joy of coffee customization to users. This project is a three-page application allowing users to explore a variety of coffees, add them to their cart, and seamlessly make payments. The use of Riverpod provider ensures smooth state management, and future enhancements can easily introduce internet-based features for a more connected experience. My aim is to create a visual, simple design.
 
-##Features 🚀
+## Features 🚀
 ![appScreens](https://github.com/abdullaharslan01/ThalassophileCoffeeApp/assets/125302932/f8356f65-8104-4aed-9a60-1b0fefb7a7e2)
 
 * Login Page: Users can log in to the app, creating a personalized experience.
